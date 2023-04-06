@@ -45,7 +45,7 @@
     cursor: pointer;
     transition: .5s;
     box-shadow: 0 6px 0 #000000;
-    margin-left: 10px;
+    margin-left: -100px;
     margin-right: 0px; 
     font-family: 'DM Sans';
 
@@ -68,6 +68,9 @@
     margin-left: 450px;
     margin-bottom: 50px;
 }
+
+
+
 
 A{
     color: #ffffff;
@@ -216,9 +219,8 @@ A{
     text-align: center;
 }
 .grid-item03{
-    height: 441px;
-    left: 0px;
-    top: 0px;
+    height: 300px;
+
     text-align: center;
 }
 .title-p{

@@ -123,140 +123,23 @@ display: flex;
     font-family: 'DM Sans'; 
     
 }
-.Quit{
-    width: 395px;
-    margin-left: 25px;
-    margin-bottom: 0px;
 
+.Enola1{
+    width: 700px;
+    margin-left: 300px;
 }
 
-.Name_Horror{
-    margin-top: -350px;
-    margin-left: 30px;
-    font-size: 20px;
+.Enola_text{
+    margin-left: 525px;
+    font-size: 45px;
+    margin-top: 10px;
 }
 
-.horror3{
-    width: 350px;
-    padding-left: 25px;
-    margin-bottom: 0px;
-}
-
-.Annabel{
-    width: 350px;
-    height: 100;
-    margin-top: 120px;
-    margin-left: 30px;
-}
-
-.Office{
-    width: 450px;
-    margin-top: 350px;
-    margin-left: 25px;
-}
-
-
-.IT_CROWD{
-    width: 450px;
-    margin-top: 350px;
-    margin-left: 35px;
-}
-
-.theory{
-    width: 450px;
-    margin-top: 350px;
-    margin-left: 35px;
-}
-
-.Comedy{
-    display: flex;
-}
-
-.Comedy_names{
-    display: flex;
-}
-
-.The_Office_text{
-    margin-top: 20px;
-    margin-left: 150px;
-}
-
-.the_big_bang_theory_text{
-    margin-top: 20px;
-    margin-left: 220px;
-}
-
-.IT_CROWD_text{
-    margin-top: 20px;
-    margin-left: 240px;
-
-}
-
-.Postion_Comedy{
-    font-size: 40px;
-    margin-top: -380px;
+.Trailer{
+    margin-top: 400px;
     margin-left: 50px;
 }
 
-
-.notebook{
-    width: 225px;
-    margin-left: 25px;
-    margin-top: 400px;
-}
-
-.If_I_Stay{
-    width: 249.3px;
-    margin-left: 40px;
-    margin-top: 400px;
-}
-
-.Last_Song{
-    width: 226px;
-    margin-left: 40px;
-    margin-top: 400px;
-}
-
-.Romantic{
-    display: flex;
-}
-
-.Romantic_names{
-    display: flex; 
-}
-
-.the_notebook_text{
-    margin-left: 60px;
-    margin-top: 15px; 
-}
-
-.If_I_Stay_theory_text{
-    margin-left: 180px;
-    margin-top: 15px; 
-}
-
-.The_Last_Song_text{
-    margin-left: 160px;
-    margin-top: 15px; 
-}
-
-.Postion_Romantic{
-    margin-left: 50px;
-    margin-top: -460px; 
-    font-size: 40px;
-
-}
-
-
-
-.Enola{
-    max-width: 500px;
-    height: 400px;
-    margin-top: -50px;
-    margin-left: 150px;
-    outline: none;
-
-}
 .button4:active{
     box-shadow: none;
     transform: translateY(6px);
@@ -311,9 +194,43 @@ display: flex;
     top: 468px;
 }
 
+.Description_photos{
+    display: flex;
+}
+
+
+
+.Description2{
+ width: 500px;
+ height: 300px;
+ margin-left: 100px;
+ margin-top: -600px;
+}
+
+.Description3{
+    width: 500px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: -600px;
+}
+
+.p{
+    width: 500px;
+    height: 200px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    letter-spacing: -0.625263px;
+    color: #000000;
+    margin-left: 675px;
+    margin-bottom: 10px;
+    margin-top: -340px;
+}
 
 .grid-item03{
-    height: 800px;
+    height: 600px;
     margin-top: -367px;
 }
 .footer{
