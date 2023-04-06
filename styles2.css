@@ -1,0 +1,216 @@
+.header{
+    background: rgba(43, 38, 38, 0.27);
+}
+.wrapper{
+    max-width: 1110px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.header-top{
+    max-width: 1250px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'DM Sans', sans-serif;
+    width: 1440px;
+    height: 145px;
+    font-size: 25px;
+    margin-left: 109px;
+    margin-bottom: 30px;
+
+}
+
+.Test{
+    margin-top: -310px;
+}
+.header-top>nav>ul{
+    display: flex;
+    list-style-type: none;
+}
+.header-top>nav>ul>li{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.header-top>nav>ul>li>a{
+    color: #696871;
+    text-decoration: none;
+}
+.blek{
+    color: #19191B;
+}
+.button-1{
+    width: 212.39px;
+    height: 60px;
+    border: 0px;
+    background: #530606ea;
+    border-radius: 15px;
+    color: #FFFFFF;
+    font-size: 20px;
+    outline: none;
+    cursor: pointer;
+    transition: .5s;
+    box-shadow: 0 6px 0 #000000;
+    margin-left: 10px;
+    margin-right: 0px; 
+    font-family: 'DM Sans';
+}
+.button-1:active{
+    box-shadow: none;
+    transform: translateY(6px);
+}
+.title1{
+    width: 600px;    
+    height: 231px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 77px;
+    letter-spacing: -2.50105px;
+    color: #19191B;
+    margin-left: 400px;
+    margin-bottom: 0px;
+}
+
+.First_Film{
+margin-left: 40px;
+font-size: 40px;
+}
+
+A{
+    color: #fc2626;
+}
+
+.title2{
+    position: absolute;
+    height: 57px;
+    width: 556px;
+    left: 850px;
+    top: 920px; 
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 57px;
+    letter-spacing: -1.56316px;
+    color: #19191B;
+}
+.grupe2{
+    position: absolute;
+    left: 850px;
+    top: 1030px;
+    font-family: 'DM Sans'; 
+    
+}
+
+
+
+.Enola_2{
+ width: 440px;
+ margin-left: 500px;
+ margin-bottom: -19px;
+}
+
+.Enola{
+    max-width: 500px;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 150px;
+    outline: none;
+    color: #373d3a;
+}
+.button4:active{
+    box-shadow: none;
+    transform: translateY(6px);
+}
+.bg-white{
+    background-color: rgb(132, 122, 122);
+    padding: 60px 10px;
+    border-radius: 10px;
+    
+}
+.bg-white2{
+    background-color: #fe3232bd; 
+    padding: 60px 30px;
+    border-radius: 10px;
+    box-shadow: 0px 32px 34px rgba(203, 10, 10, 0.796);
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 40px;
+    margin-left: 175px;
+    margin-bottom: 140px; 
+    
+}
+.grid-item-title{
+    grid-column: 1/4;
+    grid-row: 1/2;
+    margin-top: 100px;
+    
+}
+.title-h1{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: -1.87579px;
+    color: #19191B;
+    margin-top: 100px;
+    
+}
+.grid-item01{
+    height: 441px;
+    left: 0px;
+    top: 0px;   
+}
+.grid-item02{
+    height: 441px;
+    left: -165px;
+    top: 468px;
+}
+
+.Enola2cs{
+    margin-left: 625px;
+    padding-bottom: 2200px;
+}
+.grid-item03{
+    height: 2000px;
+    margin-top: -367px;
+}
+.footer{
+    background: rgba(132, 122, 122, 0.27);;
+}
+.footer-top{
+    max-width: 1250px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'DM Sans', sans-serif;
+    width: 1440px;
+    height: 200px;
+    border-radius: 0px;
+    margin-left: 109px;
+}
+.footer-top>nav>ul{
+    display: flex;
+    list-style-type: none;
+}
+.footer-top>nav>ul>li{
+    margin-left: 50px;
+    margin-right: 300px;
+}
+.footer-top>nav>ul>li>a{
+    color: #696871;
+    text-decoration: none;
+}
+
+.Enola_1{
+margin-bottom: 100px;
+margin-left: -900px;
+}
